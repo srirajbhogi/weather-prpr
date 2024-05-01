@@ -1,6 +1,8 @@
+base64
 pip
 pandas
 streamlit
+streamlit_option_menu
 tensorflow
 plotly
 numpy
