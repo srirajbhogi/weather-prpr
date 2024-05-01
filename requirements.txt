@@ -1,3 +1,4 @@
+pip
 pandas
 streamlit
 tensorflow
