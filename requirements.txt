@@ -5,3 +5,7 @@ streamlit_option_menu
 tensorflow
 plotly
 numpy
+seaborn
+matplotlib
+
+
